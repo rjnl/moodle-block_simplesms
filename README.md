@@ -3,6 +3,8 @@
 A block that allows sending SMSs to course participants.
 Requires a connection to an SMS gateway.
 
+Initially developed in 2012 as part of the USP mlearning project. Actively maintained till Moodle v3.9. 
+
 
 ## Installing via uploaded ZIP file ##
 
