@@ -1,0 +1,55 @@
+#block_simplesms_list
+{
+    width:99%;
+}
+
+#charlimitinfo,
+#simplesmschars
+{
+ font-size: 12px;
+ color: #666;
+}
+
+#send_users
+{
+    width: 200px;
+    max-width:300px !important;
+    font-size:10pt;
+}
+
+#from_users
+{
+    width: 250px;
+    max-width:300px !important;
+    font-size:10pt;
+}
+
+#groups
+{
+    width:150px !important;
+    font-size:10pt;
+}
+
+#col_option
+{
+    width: 150px !important;
+}
+
+.mform #add_button, #remove_button, #add_all, #remove_all {
+   width: 100px;
+   height: 25px;
+}
+
+#smsactions
+{
+    margin: 5px 0 10px 0;
+    padding: 3px 5px;
+}
+
+#smsactions a
+{
+    padding: 3px 5px;
+    margin:2px;
+    background:#eee;
+    border:1px solid #ccc;
+}
