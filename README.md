@@ -1,6 +1,7 @@
 # Simple SMS #
 
 A block that allows sending SMSs to course participants.
+Requires a connection to an SMS gateway.
 
 
 ## Installing via uploaded ZIP file ##
